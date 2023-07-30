@@ -1,4 +1,6 @@
 # Predict-Student-Performance-from-Game-Play
+## Ranked 95 / 2051 in the competition
+## Won the Silver Medal
 1. It's suggested to install the necessary packages for running: 
 polars 
 sklearn 
